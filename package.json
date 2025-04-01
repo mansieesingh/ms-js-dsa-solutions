@@ -1,0 +1,12 @@
+{
+  "name": "ms-js-dsa-solutions",
+  "version": "1.0.0",
+  "description": "\"Javascript DSA problems and solutions\"",
+  "license": "MIT",
+  "author": "Mansi Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
